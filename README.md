@@ -11,7 +11,7 @@
         </a>
     </div>
     <h2>
-        Hi there! I'm Boldin Artem, a beginner data scientist and ML developer 👨‍💻. I have two years of experience working as a web programmer.
+        Hi there! I'm Artem Boldin, a Data Scientist and ML Developer 👨‍💻. I have two years of experience in data science and machine learning, as well as two years of experience as a web developer.
     </h2>
 </div>
 
